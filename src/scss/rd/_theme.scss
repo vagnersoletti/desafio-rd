@@ -1,0 +1,30 @@
+body{
+	font-family: 'Roboto-Regular';
+	font-size: $font-size-base;
+}
+
+.logo {
+	display: block;
+    font-size: $font-size-h2;
+    margin: 0.25em 0;
+    line-height: 1;
+}
+
+.navbar {
+	margin-bottom: 0
+}
+
+.nav-top {
+	padding: 10px 0 0 0;
+}
+
+header {
+    display: block;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    border-top-width: 3px;
+    border-top-style: solid;
+    padding: 30px 0 30px;
+    background-color: #506e84;
+}
